@@ -85,6 +85,9 @@ fastlane/test_output
 touch .gitignore
 open .gitignore
 
+.DS_Store
+.DS_Store?
+
 # Code Injection
 #
 # After new code Injection tools there's a generated folder /iOSInjectionProject
